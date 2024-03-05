@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Tomato Pasta",
+        "ingredients": ["tomato", "pasta", "basil", "cheese"]
+    },
+    {
+        "name": "Apple Pie",
+        "ingredients": ["apple", "flour", "sugar", "butter"]
+    }
+    // ... more recipes
+]
